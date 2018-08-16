@@ -19,8 +19,8 @@ setup(
     long_description = "深度学习实现知乎验证码识别",
     license = "MIT Licence",
 
-    author = "littlepai",
-    author_email = "txgyswh@163.com",
+    author = "bambi",
+    author_email = "bambi2017@aliyun.com",
 
     packages = find_packages(),
     include_package_data = True,
